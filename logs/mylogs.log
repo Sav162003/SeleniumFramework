@@ -1,0 +1,18 @@
+20230320 17:58:58 INFO [main] salesforce.BaseTest BaseTest.java53 - Testcase executed : SaveNewContactButton
+20230320 17:59:01 INFO [main] salesforce.sfdcAutomation sfdcAutomation.java1147 - Inside Save New Contact Method
+20230320 17:59:01 INFO [main] salesforce.BaseTest BaseTest.java233 - Inside login Base
+20230320 17:59:01 INFO [main] salesforce.BaseTest BaseTest.java200 - Element Cleared : usernameEle
+20230320 17:59:01 INFO [main] salesforce.BaseTest BaseTest.java119 - Text entered in :usernameEle field
+20230320 17:59:02 INFO [main] salesforce.BaseTest BaseTest.java200 - Element Cleared : passwordEle
+20230320 17:59:02 INFO [main] salesforce.BaseTest BaseTest.java119 - Text entered in :passwordEle field
+20230320 17:59:06 INFO [main] salesforce.BaseTest BaseTest.java168 -  Page Title verified
+20230320 17:59:06 INFO [main] salesforce.BaseTest BaseTest.java170 - Page Title: Home Page ~ Salesforce - Developer Edition
+20230320 17:59:06 INFO [main] salesforce.BaseTest BaseTest.java172 - Page Title matches the expected Title :Home Page ~ Salesforce - Developer Edition
+20230320 17:59:06 INFO [main] salesforce.BaseTest BaseTest.java319 - Inside Contact page
+20230320 17:59:11 INFO [main] salesforce.BaseTest BaseTest.java295 - No Thanks cleared
+20230320 17:59:11 INFO [main] salesforce.BaseTest BaseTest.java168 -  Page Title verified
+20230320 17:59:11 INFO [main] salesforce.BaseTest BaseTest.java170 - Page Title: Contacts: Home ~ Salesforce - Developer Edition
+20230320 17:59:11 INFO [main] salesforce.BaseTest BaseTest.java172 - Page Title matches the expected Title :Contacts: Home ~ Salesforce - Developer Edition
+20230320 17:59:12 INFO [main] salesforce.BaseTest BaseTest.java168 -  Page Title verified
+20230320 17:59:12 INFO [main] salesforce.BaseTest BaseTest.java170 - Page Title: Contact Edit: New Contact ~ Salesforce - Developer Edition
+20230320 17:59:12 INFO [main] salesforce.BaseTest BaseTest.java172 - Page Title matches the expected Title :Contact Edit: New Contact ~ Salesforce - Developer Edition
